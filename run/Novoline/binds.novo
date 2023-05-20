@@ -1,0 +1,20 @@
+"click_gui" {
+    key=54
+    type=keyboard
+}
+flight {
+    key=33
+    type=keyboard
+}
+"kill_aura" {
+    key=19
+    type=keyboard
+}
+scaffold {
+    key=34
+    type=keyboard
+}
+speed {
+    key=47
+    type=keyboard
+}

@@ -1,0 +1,62 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang3-3.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/codecwav-20101023.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Intent-HWID-API-v1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/opennbt-1.2_SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jinput-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jopt-simple-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/codecjorbis-20101023.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/websockets-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/checker-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-api-2.0-beta9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/vecmath-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/twitch-6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/oshi-core-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jna-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/icu4j-core-mojang-51.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/snakeyaml-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/api-4.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jutils-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kotlin-stdlib-jdk8-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-all-4.0.23.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-core-2.0-beta9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/libraryjavasound-20101123.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bungeecord_chat-1.16_R0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kotlin-stdlib-jdk7-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/config-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl_util-2.9.4-nightly-20150209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/twitch-external-platform-4.5-natives-windows-64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jinput-platform-2.0.5-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kotlin-reflect-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-simple-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/authlib-1.5.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/platform-3.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/kotlin-stdlib-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/lwjgl-2.9.4-nightly-20150209.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/annotations-18.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/librarylwjglopenal-20100824.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/soundsystem-20120107.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fastutil-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/realms-1.7.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/twitch-platform-6.5-natives-windows-64.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
